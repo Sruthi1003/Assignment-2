@@ -1,4 +1,3 @@
-# Assignment-2
 state,DEM,REP,usa_state,usa_state_code,percent_democrat
 Alabama,843473,1434159,Alabama,AL,37.03289205631111
 Alaska,45758,80999,Alaska,AK,36.09899256056865
